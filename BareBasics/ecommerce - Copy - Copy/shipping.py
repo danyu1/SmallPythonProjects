@@ -1,0 +1,2 @@
+def calcShipping ():
+    print ("boom")
